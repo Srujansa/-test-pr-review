@@ -20,3 +20,5 @@ def get_user_data(user_id):
 DB_PASSWORD = "root123"   # SECURITY: hardcoded DB password
 DEBUG = True              # SECURITY: debug mode left on
 # trigger
+
+# trigger
